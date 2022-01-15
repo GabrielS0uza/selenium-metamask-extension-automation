@@ -6,7 +6,7 @@ import { Options as FirefoxOptions } from 'selenium-webdriver/firefox';
 import { Options as EdgeOptions } from 'selenium-webdriver/edge';
 import { Options as IeOptions } from 'selenium-webdriver/ie';
 
-import { BrowsersEnum } from '..//utils/_types';
+import { BrowsersEnum } from '../utils/_types';
 import { TSetup } from './_types';
 
 chromedriver;
